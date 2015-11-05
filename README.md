@@ -1,1 +1,1 @@
-Matrix multiply project
+MatrixMultiply project
